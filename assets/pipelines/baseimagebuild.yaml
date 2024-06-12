@@ -1,7 +1,7 @@
 trigger: none
 
 variables:
-  ado_dir: azureml-asset
+  ado_dir: AzureMlCli
   ado_assets_dir: $(assets_dir)/azureml-asset
   ado_source_dir: $(ado_dir)/assets
   assets_artifact: assets-selected
